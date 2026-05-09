@@ -60,6 +60,6 @@ print(b)
 def myFun2(x):
     x = 20
 
-a = 10
-myFun2(a)
-print(a)
+x = 10
+myFun2(x)
+print(x)
